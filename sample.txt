@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 18BF-0005
+
+ Directory of C:\Users\QQA0453\Desktop\Git For Learning
+
+01-09-2022  18:01    <DIR>          .
+30-08-2022  18:34    <DIR>          ..
+02-08-2022  11:44               104 index.html
+01-09-2022  18:01                 0 sample.txt
+               2 File(s)            104 bytes
+               2 Dir(s)  123,568,001,024 bytes free
